@@ -1,2 +1,2 @@
 # my-project
-individual subject
+individual subject 
